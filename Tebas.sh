@@ -119,7 +119,7 @@ toilet -f future "    Defacer Tools" | lolcat
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
-figlet -f future "Indonesian Cyber Army"
+figlet -f future "Muslim Cyber Army"
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo
@@ -356,15 +356,15 @@ echo
 echo
 toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
-echo $green"Author  : Chemod_zrd404			"
-echo $purple"Gthub   : https://github.com/21D4N404"
-echo $white"Blog    : http://generasicyberindo.blogspot.com"
+echo $green"Author  : ZheHacK			"
+echo $purple"Gthub   : https://github.com/ZheHacK"
+echo $white"Blog    : http://zhealhaqy.blogspot.com"
 echo
 echo $yellow"                          THANKS TO :"
 echo
-echo $cyan"[+] MR.NAGON_TA7 & KOKO "
+echo $cyan"[+] Mr.ZheHacK"
 echo $cyan"[+] MR.W3B_XIT "
-echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
+echo $cyan"[+] Cyber Muslim & All Member [M.C.A] "
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
