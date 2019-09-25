@@ -7,5 +7,9 @@ apt install curl
 apt install lolcat
 
 git clone https://github.com/ZheHacK/devIndex
+
 cd devindex
-sh .sh
+
+cd devindex
+
+bash devindex.sh
